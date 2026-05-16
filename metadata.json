@@ -1,0 +1,6 @@
+{
+  "name": "Ispanaren Championship: Gor & Gayane",
+  "description": "Իսպաներենի սպորտային առաջնություն Գոռի և Գայանեի համար: Դարձրու հաստատական բառերը ժխտական և նվաճիր Չեմպիոնի տիտղոսը:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
